@@ -1,7 +1,7 @@
 # Relatório de Projeto: Reprodutor de Músicas (Digital Experience Ultimate)
 
 ##  Autores
-* **Nome do Integrante 1** Gustavo Motta Barbosa dos Santos - R.A.: 22.0126058-1
+* **Nome do Integrante 1** Gustavo Motta Barbosa dos Santos - R.A.: 22.0126.058-1
 * **Nome do Integrante 2** João Victor Silva dos Santos- R.A.: 22.225.071-4
 
 ---
